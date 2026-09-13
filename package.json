@@ -46,11 +46,11 @@
     "lightweight",
     "customizable"
   ],
-  "author": "Shyam",
+  "author": "Shyam Patidar",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flashpop/flashpop.git"
+    "url": "git+https://github.com/ShyamPatidar-17/flashpop.git"
   },
   "peerDependencies": {
     "react": ">=16.8.0",

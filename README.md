@@ -1,9 +1,9 @@
 # flashpop
 
 [![npm version](https://img.shields.io/npm/v/flashpop.svg?style=flat-square)](https://www.npmjs.com/package/flashpop)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/flashpop/flashpop/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ShyamPatidar-17/flashpop/blob/main/LICENSE)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/flashpop?style=flat-square)](https://bundlephobia.com/package/flashpop)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/flashpop/flashpop/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ShyamPatidar-17/flashpop/pulls)
 
 A lightweight, modern, and highly customizable React notification and toast library. Built with **React Hooks**, the **Context API**, and **zero external icon/CSS runtime dependencies**.
 
@@ -327,4 +327,4 @@ This will produce the production-ready distribution in the `/dist` directory:
 
 ## 📄 License
 
-MIT © [Shyam](https://github.com/flashpop/flashpop)
+MIT © [Shyam Patidar](https://github.com/ShyamPatidar-17/flashpop)
